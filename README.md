@@ -60,7 +60,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/PIGGYlit/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIGGYlit&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=PIGGYlit&count_private=true&show_icons=true" height=145/></span>]
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIGGYlit&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=PIGGYlit&count_private=true&show_icons=true" height=145/></span>
 
 ##  stats-cards
 [![](https://stats.justsong.cn/api/csdn?id=m0_53801308&theme=dark)](https://i.csdn.net/#/user-center/profile?spm=1000.2115.3001.5111)
