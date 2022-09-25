@@ -2,6 +2,7 @@
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
 
 ### _Hi there 👋, I'm PIGGY._
+![your badge](https://badgen.net/badge/hello/world/red?icon=github)
 
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. 
 
