@@ -22,6 +22,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://blog.i-xiao.space/)
   [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)](https://blog.i-xiao.space/)
 
+
 - 💻 I work using:
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://blog.i-xiao.space/)
   [![GoLand](https://img.shields.io/badge/-GoLand-000?logo=goland&logoColor=00ACC1)](https://blog.i-xiao.space/)
@@ -49,6 +50,8 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
   [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://www.runoob.com/linux/linux-tutorial.html)
   [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)](https://www.w3cschool.cn/hupiy/hupiy-gytf3jpy.html)
   ![RRS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)
+   [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://search.bilibili.com/video?keyword=windows%E6%95%99%E7%A8%8B)
+   [![wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://search.bilibili.com/all?keyword=wordpress%E6%95%99%E7%A8%8B&from_source=video_tag)
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/PIGGYlit/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
 
