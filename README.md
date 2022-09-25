@@ -1,3 +1,4 @@
+<meta charset="utf-8"> 
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
 
 ### _Hi there 👋, I'm PIGGY._
