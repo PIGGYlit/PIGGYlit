@@ -52,6 +52,10 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
   ![RRS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)
    [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://search.bilibili.com/video?keyword=windows%E6%95%99%E7%A8%8B)
    [![wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://search.bilibili.com/all?keyword=wordpress%E6%95%99%E7%A8%8B&from_source=video_tag)
+   [![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.runoob.com/python/python-tutorial.html)
+   [![c#](	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.runoob.com/csharp/csharp-tutorial.html)
+   [![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.runoob.com/markdown/md-tutorial.html)
+   [![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.runoob.com/mysql/mysql-tutorial.html)
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/PIGGYlit/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
 
