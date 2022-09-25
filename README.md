@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 仓库状态统计
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIGGYlit&show_icons=true&theme=tokyonight)
+
+## 主页访问量统计
+![Visitor Count](https://profile-counter.glitch.me/PIGGYlit/count.svg)
+ 
+## 常用语言占比统计
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PIGGYlit&layout=compact&theme=tokyonight)
+## 徽章
+https://badgen.net/badge/icon/twitter?icon=twitter&label
+
+
+
+
