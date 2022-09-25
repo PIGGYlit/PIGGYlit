@@ -39,14 +39,15 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://blog.i-xiao.space/)
 --->
 - 🌱 I’m currently learning:
-  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)
-  ![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://www.w3school.com.cn/js/index.asp)
+  [![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)](https://www.runoob.com/w3cnote/webpack-tutorial.html)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://www.runoob.com/html/html-tutorial.html)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-  ![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)
-  ![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)
+  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://www.runoob.com/css/css-tutorial.html)
+   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://www.liaoxuefeng.com/wiki/896043488029600)
+ [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://www.liaoxuefeng.com/wiki/896043488029600/1163625339727712)
+   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://www.runoob.com/w3cnote/git-guide.html)
+ [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://www.runoob.com/linux/linux-tutorial.html)
+  [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)](https://www.w3cschool.cn/hupiy/hupiy-gytf3jpy.html)
 
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/PIGGYlit/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
