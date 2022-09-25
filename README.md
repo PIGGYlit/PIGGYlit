@@ -41,7 +41,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
 - 🌱 I’m currently learning:
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)
   ![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://www.runoob.com/html/html-tutorial.html)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
